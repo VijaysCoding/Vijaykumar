@@ -2,17 +2,17 @@
 Author: **Vijay Kumar**  
 Language Used: **Java**
 
-## 🚀 How to Run the Programs
+## How to Run the Programs
 
 ### **Prerequisites**
 - Java JDK 8 or above must be installed  
 - Any Java IDE (VS Code, IntelliJ, Eclipse) OR command line
 
-# ✅ **Problem Descriptions & Solutions**
+# **Problem Descriptions & Solutions**
 
 ---
 
-## **📝 Problem-1: Mini Calculator using Class**
+## **Problem-1: Mini Calculator using Class**
 
 A simple calculator that performs:
 - Addition  
@@ -29,7 +29,7 @@ File: **Problem-1.java**
 
 ---
 
-## **📝 Problem-2: Generate odd number series up to n terms**
+## **Problem-2: Generate odd number series up to n terms**
 
 Example:
 - Input: 4  
@@ -39,7 +39,7 @@ File: **Problem-2.java**
 
 ---
 
-## **📝 Problem-3: Generate odd number series up to nearest previous odd**
+## **Problem-3: Generate odd number series up to nearest previous odd**
 
 Examples:
 - a = 4 → output: `1, 3, 5`  
@@ -50,7 +50,7 @@ File: **Problem-3.java**
 
 ---
 
-## **📝 Problem-4: Count multiples of 1–9 in a list**
+## **Problem-4: Count multiples of 1–9 in a list**
 
 Example input:
 [1, 2, 8, 9, 12, 46, 76, 82, 15, 20, 30]
